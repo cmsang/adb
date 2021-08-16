@@ -15,7 +15,6 @@ pm uninstall -k --user 0 com.facebook.services
 pm uninstall -k --user 0 com.facebook.system
 pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.google.android.apps.wellbeing
-pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.xiaomi.joyose
 pm uninstall -k --user 0 com.miui.notes
 pm uninstall -k --user 0 com.google.android.calendar
