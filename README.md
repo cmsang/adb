@@ -1,12 +1,9 @@
 # adb
 
-pm uninstall --user 0 com.android.egg
-
-pm uninstall --user 0 com.facebook.appmanager
-
-pm uninstall --user 0 com.facebook.services
-
-pm uninstall --user 0 com.facebook.system
+  pm uninstall --user 0 com.android.egg
+  pm uninstall --user 0 com.facebook.appmanager
+  pm uninstall --user 0 com.facebook.services
+  pm uninstall --user 0 com.facebook.system
 
 pm uninstall --user 0 com.facebook.katana
 
