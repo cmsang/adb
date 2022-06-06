@@ -22,6 +22,26 @@ pm uninstall --user 0 com.android.protips
 pm uninstall --user 0 com.google.ar.lens
 pm uninstall --user 0 com.miui.userguide
 pm uninstall --user 0 com.android.chrome
+pm uninstall --user 0 com.xiaomi.payment
+pm uninstall --user 0 com.hippogames.ludosaga.mi
+pm uninstall --user 0 com.block.puzzle.game.hippo.mi
+pm uninstall --user 0 com.mi.global.shop
+pm uninstall --user 0 in.amazon.mShop.android.shopping
+pm uninstall --user 0 com.netflix.mediaclient
+pm uninstall --user 0 com.opera.app.news
+pm uninstall --user 0 com.opera.branding
+pm uninstall --user 0 com.opera.branding.news
+pm uninstall --user 0 com.opera.mini.native
+pm uninstall --user 0 com.mi.global.bbs
+pm uninstall --user 0 com.facebook.katana
+pm uninstall --user 0 in.mohalla.brandprovider
+pm uninstall --user 0 in.mohalla.sharechat
+pm uninstall --user 0 com.duokan.phone.remotecontroller.peel.plugin
+pm uninstall --user 0 com.eterno
+pm uninstall --user 0 net.one97.paytm
+pm uninstall --user 0 com.xiaomi.joyose
+pm uninstall --user 0 com.miui.notes
+
 ```
 # ubuntu
 1. uninstall firefox
