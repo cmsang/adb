@@ -41,6 +41,22 @@ pm uninstall --user 0 com.eterno
 pm uninstall --user 0 net.one97.paytm
 pm uninstall --user 0 com.xiaomi.joyose
 pm uninstall --user 0 com.miui.notes
+pm uninstall --user 0 com.google.android.feedback
+pm uninstall --user 0 com.mi.global.shop
+pm uninstall --user 0 in.amazon.mShop.android.shopping
+pm uninstall --user 0 com.netflix.mediaclient
+pm uninstall --user 0 com.opera.app.news
+pm uninstall --user 0 com.opera.branding
+pm uninstall --user 0 com.opera.branding.news
+pm uninstall --user 0 com.opera.mini.native
+pm uninstall --user 0 com.google.android.printservice.recommendation
+pm uninstall -k --user 0 com.android.bips
+pm uninstall -k --user 0 com.miui.bugreport
+pm uninstall -k --user 0 com.miui.fmservice
+pm uninstall -k --user 0 com.miui.fm
+pm uninstall -k --user 0 com.caf.fmradio
+pm uninstall -k --user 0 com.google.android.marvin.talkback
+pm uninstall -k --user 0 com.google.android.tts
 
 ```
 # ubuntu
